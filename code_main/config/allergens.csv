@@ -1,0 +1,252 @@
+Class,Type,Group,Food,Allergy,Impact,Category
+Plant origin,Nut and seed,Oil seed,Almond,Nut Allergy,"Can cause mild to severe reactions, including hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Plant origin,Fruit,Pome fruit,Apple,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Fruit,Stone fruit,Apricot,Stone Fruit Allergy,"May cause itching, swelling, or anaphylaxis in severe cases. Often linked to Oral Allergy Syndrome.",Mild
+Plant origin,Vegetable,Composite vegetable,Artichoke,Insulin Allergy,"Can lead to hives, low blood pressure, respiratory distress, and, in rare cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Liliaceous vegetable,Asparagus,Allium Allergy,"May cause digestive distress, bloating, nausea, or respiratory irritation.",Mild
+Plant origin,Fruit,Tropical fruit,Avocado,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Vegetable,Miscellaneous vegetable,Bamboo shoot,Histamine Allergy,"Triggers headaches, hives, nasal congestion, digestive issues, and, in severe cases, anaphylaxis.",Moderate
+Plant origin,Fruit,Tropical fruit,Banana,Banana Allergy,"Can cause itching, swelling, rashes, difficulty breathing, or anaphylaxis in rare cases.",Moderate
+Plant origin,Cereal grain and pulse,Cereal grain,Barley,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Plant origin,Cereal grain and pulse,Pulse,Bean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Fruit,Berry,Blackberry,Salicylate Allergy,"May trigger asthma, hives, nasal congestion, or gastrointestinal discomfort.",Mild
+Plant origin,Cereal grain and pulse,Pulse,Black-eyed bean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Fruit,Berry,Blueberry,Salicylate Allergy,"May trigger asthma, hives, nasal congestion, or gastrointestinal discomfort.",Mild
+Animal origin,Aquatic animal,Fish,Bonito,Histamine Allergy,"Triggers headaches, hives, nasal congestion, digestive issues, and, in severe cases, anaphylaxis.",Moderate
+Plant origin,Cereal grain and pulse,Pulse,Broad bean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Vegetable,Cruciferous vegetable,Broccoli,Broccoli allergy,"Can cause bloating, hives, nausea, or breathing difficulties.",Mild
+Plant origin,Vegetable,Cruciferous vegetable,Brussels sprouts,Cruciferous Allergy,"Causes digestive discomfort, bloating, nausea, and, in some cases, respiratory issues.",Mild
+Plant origin,Cereal grain and pulse,Cereal grain,Buckwheat,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Plant origin,Vegetable,Composite vegetable,Burdock,Ragweed Allergy,"Leads to sneezing, nasal congestion, itchy eyes, and respiratory irritation.",Moderate
+Animal origin,Dairy,Dairy,Butter,Milk allergy / Lactose intolerance,"Causes bloating, diarrhea, skin reactions, and anaphylaxis in severe cases.",Severe
+Plant origin,Cereal grain and pulse,Pulse,Butter bean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Animal origin,Dairy,Dairy,Buttermilk,Milk allergy / Lactose intolerance,"Causes bloating, diarrhea, skin reactions, and anaphylaxis in severe cases.",Severe
+Plant origin,Vegetable,Mushroom,Button mushroom,Mushroom Allergy,"Can lead to skin rashes, breathing difficulties, nausea, and digestive issues.",Mild
+Plant origin,Vegetable,Cruciferous vegetable,Cabbage,Cruciferous Allergy,"Causes digestive discomfort, bloating, nausea, and, in some cases, respiratory issues.",Mild
+Plant origin,Nut and seed,Beverage seed,Cacao bean,Chocolate Allergy,"May cause headaches, hives, digestive distress, and skin irritation.",Mild
+Plant origin,Oil,Oil,Canola oil,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Vegetable,Umbelliferous vegetable,Carrot,Hypersensitivity,"Leads to skin rashes, nasal congestion, digestive upset, and in some cases, breathing difficulties.",Mild
+Animal origin,Dairy,Dairy,Casein,Milk allergy / Lactose intolerance,"Causes bloating, diarrhea, skin reactions, and anaphylaxis in severe cases.",Severe
+Animal origin,Terrestrial mammal,Offal,Cattle,Alpha-gal Syndrome,"Delayed allergic reaction to red meat, causing hives, swelling, and anaphylaxis.",Severe
+Plant origin,Vegetable,Cruciferous vegetable,Cauliflower,Cruciferous Allergy,"Causes digestive discomfort, bloating, nausea, and, in some cases, respiratory issues.",Mild
+Plant origin,Vegetable,Umbelliferous vegetable,Celery,Hypersensitivity,"Leads to skin rashes, nasal congestion, digestive upset, and in some cases, breathing difficulties.",Mild
+Animal origin,Dairy,Dairy,Cheese,Milk allergy / Lactose intolerance,"Causes bloating, diarrhea, skin reactions, and anaphylaxis in severe cases.",Severe
+Plant origin,Fruit,Stone fruit,Cherry,Stone Fruit Allergy,"May cause itching, swelling, or anaphylaxis in severe cases. Often linked to Oral Allergy Syndrome.",Mild
+Plant origin,Nut and seed,Oil seed,Chestnut,Nut Allergy,"Can cause mild to severe reactions, including hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Animal origin,Poultry,Offal,Chicken,Poultry Allergy,"Causes digestive discomfort, skin reactions, respiratory symptoms, and in severe cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Composite vegetable,Chicory,Insulin Allergy,"Can lead to hives, low blood pressure, respiratory distress, and, in rare cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Cruciferous vegetable,Chinese cabbage,Cruciferous Allergy,"Causes digestive discomfort, bloating, nausea, and, in some cases, respiratory issues.",Mild
+Plant origin,Oil,Oil,Coconut oil,Tree Nut Allergy,"Can cause severe allergic reactions, including hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Plant origin,Nut and seed,Beverage seed,Coffee bean,Ochratoxin Allergy,"May trigger kidney damage, immune suppression, and respiratory issues.",Moderate
+Plant origin,Cereal grain and pulse,Cereal grain,Corn,Corn Allergy,"Causes digestive upset, hives, nasal congestion, and breathing difficulties.",Moderate
+Plant origin,Oil,Oil,Corn oil,Corn Allergy,"Causes digestive upset, hives, nasal congestion, and breathing difficulties.",Moderate
+Plant origin,Nut and seed,Oil seed,Cotton seed,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Fruit,Berry,Cranberry,Salicylate Allergy,"May trigger asthma, hives, nasal congestion, or gastrointestinal discomfort.",Mild
+Animal origin,Dairy,Dairy,Cream,Milk allergy / Lactose intolerance,"Causes bloating, diarrhea, skin reactions, and anaphylaxis in severe cases.",Severe
+Animal origin,Aquatic animal,Shellfish,Crustaceans,Shellfish Allergy,"High risk of anaphylaxis, with symptoms such as swelling, hives, vomiting, and difficulty breathing.",Severe
+Plant origin,Vegetable,Cucurbitaceous vegetable,Cucumber,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Animal origin,Dairy,Dairy,Custard,Milk allergy / Lactose intolerance,"Causes bloating, diarrhea, skin reactions, and anaphylaxis in severe cases.",Severe
+Plant origin,Fruit,Tropical fruit,Date,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Animal origin,Terrestrial mammal,Offal,Deer,Alpha-gal Syndrome,"Delayed allergic reaction to red meat, causing hives, swelling, and anaphylaxis.",Severe
+Animal origin,Poultry,Offal,Duck,Poultry Allergy,"Causes digestive discomfort, skin reactions, respiratory symptoms, and in severe cases, anaphylaxis.",Moderate
+Animal origin,Aquatic animal,Fish,Eel,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Solanceous vegetable,Egg plant,Nightshade Allergy,"May trigger joint pain, digestive distress, skin rashes, and respiratory issues.",Moderate
+Animal origin,Poultry,Egg,Eggs,Poultry Allergy,"Causes digestive discomfort, skin reactions, respiratory symptoms, and in severe cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Composite vegetable,Endive,Insulin Allergy,"Can lead to hives, low blood pressure, respiratory distress, and, in rare cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Sugar source,Fructose,Sugar Allergy / Intolerance,"Leads to bloating, diarrhea, skin reactions, and metabolic imbalances.",Moderate
+Plant origin,Vegetable,Liliaceous vegetable,Garlic,Allium Allergy,"May cause digestive distress, bloating, nausea, or respiratory irritation.",Mild
+Plant origin,Vegetable,Cucurbitaceous vegetable,Ghrkin,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Vegetable,Miscellaneous vegetable,Ginger,Histamine Allergy,"Triggers headaches, hives, nasal congestion, digestive issues, and, in severe cases, anaphylaxis.",Moderate
+Plant origin,Nut and seed,Oil seed,Ginkgo nut,Nut Allergy,"Can cause mild to severe reactions, including hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Animal origin,Aquatic animal,Fish,Globfish,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Sugar source,Glucose,Sugar Allergy / Intolerance,"Leads to bloating, diarrhea, skin reactions, and metabolic imbalances.",Moderate
+Animal origin,Terrestrial mammal,Offal,Goat,Alpha-gal Syndrome,"Delayed allergic reaction to red meat, causing hives, swelling, and anaphylaxis.",Severe
+Plant origin,Fruit,Grape,Grape,LTP Allergy,"Lipid Transfer Protein Allergy - Causes swelling, hives, breathing difficulties, and anaphylaxis.",Moderate
+Plant origin,Fruit,Citrus fruit / citric acid,Grapefruit,Citrus Allergy,"Can cause rashes, digestive upset, mouth irritation, and respiratory issues.",Moderate
+Plant origin,Oil,Oil,Grapeseed oil,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Vegetable,Legumes vegetable,Green soybean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Oil,Oil,Groundnut oil,Peanut Allergy,"Often severe; may lead to hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Plant origin,Fruit,Tropical fruit,Guava,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Animal origin,Bee product,Bee product,Honey,Honey Allergy,"May cause skin rashes, digestive discomfort, breathing issues, or anaphylaxis.",Mild
+Plant origin,Hop,Hop,Hop,Beer Allergy,"Can result in headaches, rashes, bloating, and respiratory issues.",Mild
+Animal origin,Terrestrial mammal,Offal,Horse,Alpha-gal Syndrome,"Delayed allergic reaction to red meat, causing hives, swelling, and anaphylaxis.",Severe
+Animal origin,Aquatic animal,Fish,Horse Mackerel,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Cruciferous vegetable,Horseradish,Cruciferous Allergy,"Causes digestive discomfort, bloating, nausea, and, in some cases, respiratory issues.",Mild
+Plant origin,Fruit,Berry,Huckleberry,Salicylate Allergy,"May trigger asthma, hives, nasal congestion, or gastrointestinal discomfort.",Mild
+Animal origin,Dairy,Dairy,Ice cream,Milk allergy / Lactose intolerance,"Causes bloating, diarrhea, skin reactions, and anaphylaxis in severe cases.",Severe
+Plant origin,Fruit,Pome fruit,Japanese pear,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Fruit,Tropical fruit,Japanese persimmon,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Fruit,Stone fruit,Japanese plum,Stone Fruit Allergy,"May cause itching, swelling, or anaphylaxis in severe cases. Often linked to Oral Allergy Syndrome.",Mild
+Plant origin,Vegetable,Cruciferous vegetable,Kale,Cruciferous Allergy,"Causes digestive discomfort, bloating, nausea, and, in some cases, respiratory issues.",Mild
+Plant origin,Vegetable,Legumes vegetable,Kidney bean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Fruit,Tropical fruit,Kiwi,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Vegetable,Potato,Konjac,Potato Allergy,"Causes skin irritation, digestive issues, breathing difficulties, and anaphylaxis in rare cases.",Moderate
+Plant origin,Vegetable,Cruciferous vegetable,Kyona,Cruciferous Allergy,"Causes digestive discomfort, bloating, nausea, and, in some cases, respiratory issues.",Mild
+Plant origin,Vegetable,Sugar source,Lactose,Lactose Intolerance,"Leads to bloating, diarrhea, stomach cramps, and gas.",Moderate
+Plant origin,Vegetable,Liliaceous vegetable,Leek,Allium Allergy,"May cause digestive distress, bloating, nausea, or respiratory irritation.",Mild
+Plant origin,Fruit,Citrus fruit / citric acid,Lemon,Citrus Allergy,"Can cause rashes, digestive upset, mouth irritation, and respiratory issues.",Moderate
+Plant origin,Cereal grain and pulse,Pulse,Lentil,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Vegetable,Composite vegetable,Lettuce,LTP Allergy,"Lipid Transfer Protein Allergy - Causes swelling, hives, breathing difficulties, and anaphylaxis.",Moderate
+Plant origin,Cereal grain and pulse,Pulse,Lima bean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Fruit,Citrus fruit / citric acid,Lime,Citrus Allergy,"Can cause rashes, digestive upset, mouth irritation, and respiratory issues.",Moderate
+Plant origin,Fruit,Pome fruit,Loquat,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Animal origin,Aquatic animal,Fish,Mackerel,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Cucurbitaceous vegetable,Makuwauri  melon,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Fruit,Tropical fruit,Mango,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Vegetable,Cucurbitaceous vegetable,Melons,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Animal origin,Dairy,Dairy,Milk,Milk allergy / Lactose intolerance,"Causes bloating, diarrhea, skin reactions, and anaphylaxis in severe cases.",Severe
+Mineral waters,Mineral water,Mineral water,Mineral water,Aquagenic Urticaria,Rare condition where contact with water triggers hives and severe itching.,Related to Conditions
+Plant origin,Vegetable,Umbelliferous vegetable,Mitsuba,Hypersensitivity,"Leads to skin rashes, nasal congestion, digestive upset, and in some cases, breathing difficulties.",Mild
+Plant origin,Fruit,Stone fruit,Mume plum,Stone Fruit Allergy,"May cause itching, swelling, or anaphylaxis in severe cases. Often linked to Oral Allergy Syndrome.",Mild
+Plant origin,Oil,Oil,Mustard oil,Mustard Allergy,"Can cause skin irritation, swelling, digestive distress, and anaphylaxis.",Mild
+Plant origin,Vegetable,Cruciferous vegetable,Mustard Spinach,Cruciferous Allergy,"Causes digestive discomfort, bloating, nausea, and, in some cases, respiratory issues.",Mild
+Plant origin,Fruit,Stone fruit,Nectarine,Stone Fruit Allergy,"May cause itching, swelling, or anaphylaxis in severe cases. Often linked to Oral Allergy Syndrome.",Mild
+Plant origin,Vegetable,Liliaceous vegetable,Nira,Allium Allergy,"May cause digestive distress, bloating, nausea, or respiratory irritation.",Mild
+Plant origin,Vegetable,Miscellaneous vegetable,Okra,Histamine Allergy,"Triggers headaches, hives, nasal congestion, digestive issues, and, in severe cases, anaphylaxis.",Moderate
+Plant origin,Oil,Oil,Olive oil,Olive Allergy,"May lead to skin rashes, nasal congestion, digestive discomfort, or breathing difficulties.",Mild
+Plant origin,Vegetable,Liliaceous vegetable,Onion,Allium Allergy,"May cause digestive distress, bloating, nausea, or respiratory irritation.",Mild
+Plant origin,Fruit,Citrus fruit / citric acid,Orange,Citrus Allergy,"Can cause rashes, digestive upset, mouth irritation, and respiratory issues.",Moderate
+Plant origin,Fruit,Citrus fruit / citric acid,Orange pulp,Citrus Allergy,"Can cause rashes, digestive upset, mouth irritation, and respiratory issues.",Moderate
+Plant origin,Fruit,Tropical fruit,Papaya,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Vegetable,Umbelliferous vegetable,Parsley,Hypersensitivity,"Leads to skin rashes, nasal congestion, digestive upset, and in some cases, breathing difficulties.",Mild
+Plant origin,Vegetable,Umbelliferous vegetable,Parsnip,Hypersensitivity,"Leads to skin rashes, nasal congestion, digestive upset, and in some cases, breathing difficulties.",Mild
+Plant origin,Fruit,Tropical fruit,Passion fruit,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Fruit,Stone fruit,Peach,Stone Fruit Allergy,"May cause itching, swelling, or anaphylaxis in severe cases. Often linked to Oral Allergy Syndrome.",Mild
+Plant origin,Cereal grain and pulse,Pulse,Peanut,Peanut Allergy,"Often severe; may lead to hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Plant origin,Fruit,Pome fruit,Pear,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Vegetable,Legumes vegetable,Peas,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Cereal grain and pulse,Pulse,Peas,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Nut and seed,Oil seed,Pecan,Nut Allergy,"Can cause mild to severe reactions, including hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Plant origin,Cereal grain and pulse,Pulse,Pegia,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Spice and herb,Herb,Peppermint,Mint Allergy,"Can trigger rashes, digestive upset, breathing difficulties, or anaphylaxis.",Mild
+Animal origin,Aquatic animal,Fish,Percifomes,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Animal origin,Terrestrial mammal,Offal,Pig,Alpha-gal Syndrome,"Delayed allergic reaction to red meat, causing hives, swelling, and anaphylaxis.",Severe
+Plant origin,Fruit,Tropical fruit,Pineapple,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Cereal grain and pulse,Cereal grain,Popcorn,Corn Allergy,"Causes digestive upset, hives, nasal congestion, and breathing difficulties.",Moderate
+Plant origin,Vegetable,Potato,Potato,Potato Allergy,"Causes skin irritation, digestive issues, breathing difficulties, and anaphylaxis in rare cases.",Moderate
+Plant origin,Fruit,Stone fruit,Prune,Stone Fruit Allergy,"May cause itching, swelling, or anaphylaxis in severe cases. Often linked to Oral Allergy Syndrome.",Mild
+Plant origin,Vegetable,Cucurbitaceous vegetable,Pumpkin,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Vegetable,Cruciferous vegetable,Qing-geng-cai,Cruciferous Allergy,"Causes digestive discomfort, bloating, nausea, and, in some cases, respiratory issues.",Mild
+Plant origin,Fruit,Pome fruit,Quince,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Vegetable,Cruciferous vegetable,Radish leaf,Cruciferous Vegetable Allergy,"Causes bloating, digestive discomfort, and skin irritation.",Mild
+Plant origin,Vegetable,Cruciferous vegetable,Radish root,Hypersensitivity,"Leads to skin rashes, nasal congestion, digestive upset, and in some cases, breathing difficulties.",Mild
+Plant origin,Nut and seed,Oil seed,Rapeseed,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Fruit,Berry,Raspberry,Salicylate Allergy,"May trigger asthma, hives, nasal congestion, or gastrointestinal discomfort.",Mild
+Plant origin,Cereal grain and pulse,Cereal grain,Rice,Rice Allergy,"Leads to skin irritation, digestive issues, and respiratory distress.",Mild
+Plant origin,Oil,Oil,Ricebran oil,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Animal origin,Bee product,Bee product,Royal Jelly,Honey Allergy,"May cause skin rashes, digestive discomfort, breathing issues, or anaphylaxis.",Mild
+Plant origin,Cereal grain and pulse,Cereal grain,Rye,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Plant origin,Nut and seed,Oil seed,Safflower seed,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Animal origin,Aquatic animal,Fish,Salmon,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Composite vegetable,Salsify,Insulin Allergy,"Can lead to hives, low blood pressure, respiratory distress, and, in rare cases, anaphylaxis.",Moderate
+Plant origin,Spice and herb,Spice,Sansho,Pepper Allergy,"Can cause skin irritation, respiratory symptoms, and digestive upset.",Moderate
+Animal origin,Aquatic animal,Fish,Sea Bass,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Animal origin,Aquatic animal,Fish,Sea Bream,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Plant origin,Nut and seed,Oil seed,Sesame seed,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Vegetable,Liliaceous vegetable,Shallot,Allium Allergy,"May cause digestive distress, bloating, nausea, or respiratory irritation.",Mild
+Animal origin,Terrestrial mammal,Offal,Sheep,Alpha-gal Syndrome,"Delayed allergic reaction to red meat, causing hives, swelling, and anaphylaxis.",Severe
+Animal origin,Aquatic animal,Shellfish,Shelled mollusc,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Mushroom,Shiitake  mushroom,Mushroom Allergy,"Can lead to skin rashes, breathing difficulties, nausea, and digestive issues.",Mild
+Plant origin,Vegetable,Composite vegetable,Shungiku,Insulin Allergy,"Can lead to hives, low blood pressure, respiratory distress, and, in rare cases, anaphylaxis.",Moderate
+Animal origin,Dairy,Dairy,Sour cream,Milk allergy / Lactose intolerance,"Causes bloating, diarrhea, skin reactions, and anaphylaxis in severe cases.",Severe
+Plant origin,Cereal grain and pulse,Pulse,Soybean,Soy Allergy,"Triggers hives, digestive discomfort, breathing issues, and anaphylaxis in severe cases.",Moderate
+Plant origin,Spice and herb,Herb,Spearmint,Mint Allergy,"Can trigger rashes, digestive upset, breathing difficulties, or anaphylaxis.",Mild
+Plant origin,Vegetable,Miscellaneous vegetable,Spinach,Histamine Allergy,"Triggers headaches, hives, nasal congestion, digestive issues, and, in severe cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Cucurbitaceous vegetable,Squash,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Fruit,Berry,Strawberry,Salicylate Allergy,"May trigger asthma, hives, nasal congestion, or gastrointestinal discomfort.",Mild
+Plant origin,Vegetable,Sugar source,Sugar,Sugar Allergy / Intolerance,"Leads to bloating, diarrhea, skin reactions, and metabolic imbalances.",Moderate
+Plant origin,Vegetable,Sugar source,Sugar beet,Sugar Allergy / Intolerance,"Leads to bloating, diarrhea, skin reactions, and metabolic imbalances.",Moderate
+Plant origin,Vegetable,Sugar source,Sugarcane,Sugar Allergy / Intolerance,"Leads to bloating, diarrhea, skin reactions, and metabolic imbalances.",Moderate
+Plant origin,Cereal grain and pulse,Pulse,Sultani,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Cereal grain and pulse,Pulse,Sultapya,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Oil,Oil,Sunflower oil,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Nut and seed,Oil seed,Sunflower seed,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Cereal grain and pulse,Cereal grain,Sweet corn,Corn Allergy,"Causes digestive upset, hives, nasal congestion, and breathing difficulties.",Moderate
+Plant origin,Vegetable,Solanceous vegetable,Sweet Pepper,Nightshade Allergy,"May trigger joint pain, digestive distress, skin rashes, and respiratory issues.",Moderate
+Plant origin,Vegetable,Potato,Sweet potato,Potato Allergy,"Causes skin irritation, digestive issues, breathing difficulties, and anaphylaxis in rare cases.",Moderate
+Plant origin,Vegetable,Potato,Taro,Potato Allergy,"Causes skin irritation, digestive issues, breathing difficulties, and anaphylaxis in rare cases.",Moderate
+Plant origin,Tea,Tea,Tea,Tannin Allergy,"May cause headaches, nausea, skin reactions, and breathing difficulties.",Mild
+Animal origin,Aquatic animal,Fish,Tetraodontiformes,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Solanceous vegetable,Tomato,Nightshade Allergy,"May trigger joint pain, digestive distress, skin rashes, and respiratory issues.",Moderate
+Animal origin,Aquatic animal,Fish,Trout,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Animal origin,Aquatic animal,Fish,Tuna,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Animal origin,Poultry,Offal,Turkey,Poultry Allergy,"Causes digestive discomfort, skin reactions, respiratory symptoms, and in severe cases, anaphylaxis.",Moderate
+Plant origin,Vegetable,Cruciferous vegetable,Turnip leaf,Cruciferous Vegetable Allergy,"Causes bloating, digestive discomfort, and skin irritation.",Mild
+Plant origin,Vegetable,Cruciferous vegetable,Turnip root,Turnip Allergy,"Can interfere with thyroid function, leading to hormonal imbalances.",Mild
+Plant origin,Oil,Oil,Vegetable oil,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Nut and seed,Oil seed,Walnut,Nut Allergy,"Can cause mild to severe reactions, including hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Plant origin,Vegetable,Cucurbitaceous vegetable,Water melon,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Vegetable,Cruciferous vegetable,Watercress,Cruciferous Vegetable Allergy,"Causes bloating, digestive discomfort, and skin irritation.",Mild
+Plant origin,Vegetable,Liliaceous vegetable,Welsh,Allium Allergy,"May cause digestive distress, bloating, nausea, or respiratory irritation.",Mild
+Plant origin,Cereal grain and pulse,Cereal grain,Wheat,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Animal origin,Dairy,Dairy,Whey,Milk allergy / Lactose intolerance,"Causes bloating, diarrhea, skin reactions, and anaphylaxis in severe cases.",Severe
+Plant origin,Cereal grain and pulse,Pulse,White bean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Vegetable,Potato,Yam,Potato Allergy,"Causes skin irritation, digestive issues, breathing difficulties, and anaphylaxis in rare cases.",Moderate
+Animal origin,Dairy,Dairy,Yogurt,Milk allergy / Lactose intolerance,"Causes bloating, diarrhea, skin reactions, and anaphylaxis in severe cases.",Severe
+Plant origin,Cereal,Grain,Oats,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Plant origin,Cereal,Grain,Spelt,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Plant origin,Cereal,Grain,Kamut,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Plant origin,Legume,Pulse,Chickpea,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Legume,Pulse,Lupin,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Nut and seed,Tree nut,Hazelnut,Nut Allergy,"Can cause mild to severe reactions, including hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Plant origin,Nut and seed,Tree nut,Brazil nut,Nut Allergy,"Can cause mild to severe reactions, including hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Plant origin,Nut and seed,Tree nut,Macadamia nut,Nut Allergy,"Can cause mild to severe reactions, including hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Plant origin,Nut and seed,Tree nut,Pistachio,Nut Allergy,"Can cause mild to severe reactions, including hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Animal origin,Dairy,Milk product,Casein,Milk Allergy,"Causes rashes, digestive upset, breathing issues, and anaphylaxis.",Severe
+Animal origin,Dairy,Milk product,Whey,Milk Allergy,"Causes rashes, digestive upset, breathing issues, and anaphylaxis.",Severe
+Animal origin,Meat,Red meat,Beef,Red Meat Allergy,"Causes delayed hives, swelling, digestive issues, and anaphylaxis due to alpha",Severe
+Animal origin,Meat,Poultry,Quail,Poultry Allergy,"Causes digestive discomfort, skin reactions, respiratory symptoms, and in severe cases, anaphylaxis.",Moderate
+Animal origin,Seafood,Fish,Cod,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Animal origin,Seafood,Shellfish,Lobster,Shellfish Allergy,"High risk of anaphylaxis, with symptoms such as swelling, hives, vomiting, and difficulty breathing.",Severe
+Animal origin,Seafood,Shellfish,Crab,Shellfish Allergy,"High risk of anaphylaxis, with symptoms such as swelling, hives, vomiting, and difficulty breathing.",Severe
+Animal origin,Seafood,Shellfish,Clam,Shellfish Allergy,"High risk of anaphylaxis, with symptoms such as swelling, hives, vomiting, and difficulty breathing.",Severe
+Plant origin,Cereal,Grain,Teff,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Plant origin,Cereal,Grain,Millet,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Plant origin,Cereal,Grain,Sorghum,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Plant origin,Spice,Seed Spice,Fennel Seed,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Spice,Seed Spice,Coriander Seed,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Spice,Seed Spice,Cumin Seed,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Nut and Seed,Seed,Chia Seed,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Legume,Pulse,Black Bean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Animal origin,Meat,Mammal Meat,Venison,Alpha-Gal Syndrome,"Delayed allergic reaction to red meat, causing hives, swelling, and anaphylaxis.",Severe
+Animal origin,Meat,Mammal Meat,Rabbit,Alpha-Gal Syndrome,"Delayed allergic reaction to red meat, causing hives, swelling, and anaphylaxis.",Severe
+Animal origin,Seafood,Fish,Anchovy,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Animal origin,Dairy,Cheese,Blue Cheese,Mold Allergy,"Leads to respiratory distress, nasal congestion, skin irritation, and asthma flare",Moderate
+Plant origin,Cereal,Grain,Farro,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Plant origin,Cereal,Grain,Einkorn,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Plant origin,Cereal,Grain,Emmer,Gluten Allergy,"Leads to bloating, diarrhea, intestinal damage, and long",Moderate
+Plant origin,Legume,Pulse,Navy Bean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Legume,Pulse,Adzuki Bean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Legume,Pulse,Mung Bean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Legume,Pulse,Fava Bean,Legume Allergy,"Can cause mild digestive issues, swelling, breathing difficulties, or anaphylaxis.",Moderate
+Plant origin,Nut,Tree Nut,Hickory Nut,Nut Allergy,"Can cause mild to severe reactions, including hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Plant origin,Nut,Tree Nut,Pili Nut,Nut Allergy,"Can cause mild to severe reactions, including hives, swelling, difficulty breathing, and anaphylaxis.",Severe
+Plant origin,Nut/Seed,Seed,Flaxseed,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Nut/Seed,Seed,Hemp Seed,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Nut/Seed,Seed,Poppy Seed,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Fruit,Berry,Elderberry,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Fruit,Tropical Fruit,Lychee,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Fruit,Tropical Fruit,Longan,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Fruit,Tropical Fruit,Durian,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Vegetable,Root,Jicama,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Vegetable,Leafy Green,Bok Choy,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Vegetable,Leafy Green,Swiss Chard,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Animal origin,Seafood,Fish,Sardine,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Animal origin,Seafood,Fish,Herring,Fish Allergy,"Can cause hives, swelling, nausea, difficulty breathing, and in severe cases, anaphylaxis.",Moderate
+Animal origin,Seafood,Shellfish,Mussels,Shellfish Allergy,"High risk of anaphylaxis, with symptoms such as swelling, hives, vomiting, and difficulty breathing.",Severe
+Animal origin,Seafood,Shellfish,Scallops,Shellfish Allergy,"High risk of anaphylaxis, with symptoms such as swelling, hives, vomiting, and difficulty breathing.",Severe
+Animal origin,Seafood,Shellfish,Sea Urchin,Shellfish Allergy,"High risk of anaphylaxis, with symptoms such as swelling, hives, vomiting, and difficulty breathing.",Severe
+Animal origin,Meat,Mammal Meat,Bison,Alpha-Gal Syndrome,"Delayed allergic reaction to red meat, causing hives, swelling, and anaphylaxis.",Severe
+Animal origin,Meat,Mammal Meat,Goat,Alpha-Gal Syndrome,"Delayed allergic reaction to red meat, causing hives, swelling, and anaphylaxis.",Severe
+Animal origin,Meat,Mammal Meat,Wild Boar,Alpha-Gal Syndrome,"Delayed allergic reaction to red meat, causing hives, swelling, and anaphylaxis.",Severe
+Plant origin,Oil,Seed Oil,Cottonseed Oil,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Plant origin,Oil,Seed Oil,Perilla Oil,Seed Allergy,"Can result in skin irritation, difficulty breathing, and anaphylaxis.",Moderate
+Animal origin,Dairy,Fermented,Kefir,Milk Allergy,"Causes rashes, digestive upset, breathing issues, and anaphylaxis.",Severe
+Animal origin,Dairy,Fermented,Ghee,Milk Allergy,"Causes rashes, digestive upset, breathing issues, and anaphylaxis.",Severe
+Plant origin,Herb,Leaf Herb,Basil,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Herb,Leaf Herb,Oregano,Oral Allergy Syndrome,"Typically mild; causes itching, tingling, or swelling of the mouth, lips, and throat.",Mild
+Plant origin,Spice,Root Spice,Turmeric,Spice Allergy,"Can cause digestive upset, skin reactions, respiratory distress, and anaphylaxis.",Mild
+Plant origin,Spice,Root Spice,Galangal,Spice Allergy,"Can cause digestive upset, skin reactions, respiratory distress, and anaphylaxis.",Mild
+Synthetic,Additive,Preservative,Sulfites,Sulfite Sensitivity,"Triggers asthma, breathing difficulties, skin irritation, and headaches.",Artificial and Moderate
+Synthetic,Additive,Coloring,Tartrazine,Artificial Dye Allergy,"May lead to hyperactivity, skin reactions, digestive issues, and headaches.",Artificial and Mild
+Synthetic,Additive,Flavoring,MSG,MSG Sensitivity,"Causes headaches, flushing, nausea, and dizziness.",Artificial and Moderate

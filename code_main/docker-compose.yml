@@ -1,0 +1,9 @@
+version: "3.12"
+
+services:
+  my_app:
+    build: .
+    image: my_app:latest
+    # Uncomment the following lines if your app listens on a port (e.g., 8080)
+    ports:
+       - "8080:8080"
